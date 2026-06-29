@@ -18,7 +18,7 @@ adjustText==1.4.0
 # ── Machine learning ──────────────────────────────────────────────────────────
 scikit-learn==1.6.1
 xgboost==3.3.0
-shap==0.48.0
+shap==0.52.0
 
 # ── Statistics and econometrics ───────────────────────────────────────────────
 scipy==1.15.3
@@ -27,5 +27,4 @@ linearmodels==7.0
 
 # ── Causal inference ──────────────────────────────────────────────────────────
 dowhy==0.14
-econml==0.16.0
 networkx==3.6.1

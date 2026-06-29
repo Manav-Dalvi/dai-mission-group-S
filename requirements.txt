@@ -1,0 +1,31 @@
+# Beyond Raw Pace — F1 Strategic Decision-Making Study
+# DAI Mission | TU Dortmund | Summer Semester 2026
+#
+# Install with: pip install -r requirements.txt
+#
+# CRITICAL: dowhy must be pinned to 0.14 exactly.
+# The backdoor API changed in 0.15+; any other version will break Block 3.
+
+# ── Core data ─────────────────────────────────────────────────────────────────
+pandas==3.0.2
+numpy==2.4.4
+
+# ── Visualisation ─────────────────────────────────────────────────────────────
+matplotlib==3.10.8
+seaborn==0.13.2
+adjustText==1.4.0
+
+# ── Machine learning ──────────────────────────────────────────────────────────
+scikit-learn==1.6.1
+xgboost==3.3.0
+shap==0.48.0
+
+# ── Statistics and econometrics ───────────────────────────────────────────────
+scipy==1.15.3
+statsmodels==0.14.6
+linearmodels==7.0
+
+# ── Causal inference ──────────────────────────────────────────────────────────
+dowhy==0.14
+econml==0.16.0
+networkx==3.6.1

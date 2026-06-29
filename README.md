@@ -23,11 +23,11 @@ interaction between car quality and strategic returns.
 
 | Member | Block | Method |
 |---|---|---|
-| Sasha Marie Stühmer | Block 1 — Unsupervised Learning | PCA + K-Means circuit clustering |
-| Manav Madhukar Dalvi | Block 2 — Causal Inference A | Two-Stage Least Squares (2SLS IV) |
-| Manav Madhukar Dalvi | Block 3 — Causal Inference B | DoWhy backdoor adjustment |
+| Sasha Marie Stühmer | Block 1 - Unsupervised Learning | PCA + K-Means circuit clustering |
+| Manav Madhukar Dalvi | Block 2 - Causal Inference A | Two-Stage Least Squares (2SLS IV) |
+| Manav Madhukar Dalvi | Block 3 - Causal Inference B | DoWhy backdoor adjustment |
 | Manav Madhukar Dalvi | Data pipeline, synthesis, project lead | |
-| Bademba Drammeh | Block 4 — Supervised Learning | Walk-forward XGBoost + SHAP |
+| Bademba Drammeh | Block 4 - Supervised Learning | Walk-forward XGBoost + SHAP |
 
 Block ordering in the notebook follows analytical dependency, not convention:
 Unsupervised (1) → Causal A (2) → Causal B (3) → Supervised (4).
@@ -114,6 +114,12 @@ Reasons:
 
 The extraction notebook is annotated throughout and documents all query patterns, rate limit
 handling, and known data gaps (19 FastF1 sessions missing: 2018 R14 and 2023 R5-R22).
+
+---
+
+## A Note on Collaboration and Commit History
+
+All collaborative development for this project was conducted on Google Colaboratory, with data and intermediate outputs stored on Google Drive. The GitHub repository was set up at the point of final submission to host the deliverables. As a result, the commit history does not reflect the full development timeline of the project.
 
 ---
 

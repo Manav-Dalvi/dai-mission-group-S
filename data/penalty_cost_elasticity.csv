@@ -1,0 +1,28 @@
+circuitId,circuit_name,beta,ci_lower,ci_upper,n_races,n_obs
+magny_cours,Circuit de Nevers Magny-Cours,0.7493,0.6306,0.868,6,124
+istanbul,Istanbul Park,0.7134,0.612,0.8148,9,190
+rodriguez,Autódromo Hermanos Rodríguez,0.7028,0.5953,0.8103,9,180
+shanghai,Shanghai International Circuit,0.6791,0.6025,0.7556,17,361
+catalunya,Circuit de Barcelona-Catalunya,0.6716,0.6034,0.7399,22,461
+silverstone,Silverstone Circuit,0.6624,0.5949,0.7299,23,480
+bahrain,Bahrain International Circuit,0.6543,0.5833,0.7252,21,439
+yas_marina,Yas Marina Circuit,0.6456,0.5634,0.7278,16,336
+hungaroring,Hungaroring,0.6366,0.5651,0.7081,22,457
+suzuka,Suzuka Circuit,0.6287,0.5497,0.7076,18,379
+monza,Autodromo Nazionale di Monza,0.6271,0.5556,0.6986,22,459
+monaco,Circuit de Monaco,0.6074,0.5316,0.6831,21,436
+sochi,Sochi Autodrom,0.5888,0.4619,0.7157,8,162
+red_bull_ring,Red Bull Ring,0.5863,0.4896,0.683,14,279
+imola,Autodromo Enzo e Dino Ferrari,0.5779,0.4487,0.7072,8,160
+marina_bay,Marina Bay Street Circuit,0.5754,0.4842,0.6666,15,316
+valencia,Valencia Street Circuit,0.5719,0.4161,0.7276,5,111
+interlagos,Autódromo José Carlos Pace,0.5643,0.486,0.6426,21,436
+hockenheimring,Hockenheimring,0.5423,0.4336,0.651,11,234
+villeneuve,Circuit Gilles Villeneuve,0.5347,0.4513,0.618,19,401
+americas,Circuit of the Americas,0.5284,0.4194,0.6373,12,244
+sepang,Sepang International Circuit,0.514,0.4196,0.6084,15,322
+baku,Baku City Circuit,0.5122,0.3743,0.6501,8,159
+nurburgring,Nürburgring,0.5076,0.3836,0.6315,9,190
+spa,Circuit de Spa-Francorchamps,0.502,0.418,0.5861,20,415
+albert_park,Albert Park Grand Prix Circuit,0.4977,0.4139,0.5815,20,415
+indianapolis,Indianapolis Motor Speedway,0.3208,0.1348,0.5068,5,104

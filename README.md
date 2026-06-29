@@ -26,7 +26,6 @@ interaction between car quality and strategic returns.
 | Sasha Marie Stühmer | Block 1 - Unsupervised Learning | PCA + K-Means circuit clustering |
 | Manav Madhukar Dalvi | Block 2 - Causal Inference A | Two-Stage Least Squares (2SLS IV) |
 | Manav Madhukar Dalvi | Block 3 - Causal Inference B | DoWhy backdoor adjustment |
-| Manav Madhukar Dalvi | Data pipeline, synthesis, project lead | |
 | Bademba Drammeh | Block 4 - Supervised Learning | Walk-forward XGBoost + SHAP |
 
 Block ordering in the notebook follows analytical dependency, not convention:

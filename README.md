@@ -134,3 +134,13 @@ All collaborative development for this project was conducted on Google Colaborat
   cluster assignment. The 5 excluded circuits are documented in Block 1.
 
 ---
+
+## Bonus: Interactive Showcase (Not Part of the Graded Submission)
+
+A public-facing Streamlit dashboard was built to present this study's findings interactively. This is supplementary work, not required by the course guidelines, and does not affect the graded notebook or analysis in any way.
+
+**Live site:** https://beyond-raw-pace.streamlit.app/
+
+<p align="center">
+  <img src="data\misc\qrcode.png" alt="QR code linking to the Beyond Raw Pace Streamlit showcase" width="180">
+</p>
